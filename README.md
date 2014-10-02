@@ -1,4 +1,4 @@
 gulp-recipes
 ============
 
-Gulp Recipes
+Gulp Recipes for everyone to use
