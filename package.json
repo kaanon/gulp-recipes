@@ -1,6 +1,6 @@
 {
   "name": "gulp-recipes",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Gulp Recipes for use on projects",
   "main": "recipes.js",
   "repository": {
