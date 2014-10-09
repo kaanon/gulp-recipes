@@ -22,8 +22,8 @@ var jshint = require('gulp-jshint'),
     gulp = require('gulp'),
     fs = require('fs'),
     connect = require('gulp-connect'),
-    open = require('open');
-    _ = require('underscore'),;
+    open = require('open'),
+    _ = require('underscore');
 
 
 module.exports = function(gulp, opts){
